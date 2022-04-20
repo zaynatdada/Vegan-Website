@@ -1,0 +1,16 @@
+style
+h1 {background-color: #83EBB2;
+}
+.Header {
+    display: flex;
+    justify-content: center;
+    background-color: #83EBB2;
+    text-align: center;
+}
+
+.Menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #d490cb;
+}
