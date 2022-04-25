@@ -19,3 +19,17 @@ h1 {background-color: #83EBB2;
     background-color: #d490cb;
     font-family: 'Major Mono Display', monospace;
 }
+
+
+.About {
+    display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+    
+margin: 100px;
+padding: 25px 50px 75px;
+border-style: dashed;
+    background-color: #d490cb;
+    width: 500px;
+
+}
