@@ -8,3 +8,4 @@ let HowManyYearsVegan = (answer) => {
     }
 };
 HowManyYearsVegan()
+
