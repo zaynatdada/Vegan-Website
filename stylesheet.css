@@ -49,17 +49,16 @@ border-style: dashed;
 
 .Container {
 display: flex;
-
-
 }
+
 .row align {
     align-self: start;
 }
 
-.col {
-    columns: 2;
-}
+
+
 
 .Padding {
     padding-top: 50px;
 }
+
