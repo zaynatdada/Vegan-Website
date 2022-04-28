@@ -46,3 +46,7 @@ border-style: dashed;
     width: 500px;
 
 }
+
+.Container {
+    height: fit-content;
+}
