@@ -9,9 +9,5 @@ let HowManyYearsVegan = (answer) => {
 };
 HowManyYearsVegan()
 
-<script>
-function  myFunction() {
-    alert("Newington lunch");
-}
-</script>
+
 
